@@ -1,0 +1,116 @@
+body {
+    background-color: white;
+}
+                                        
+.containerheledocument {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .header {
+    padding: 0.1px;
+    background-color: #E9E9E9;
+    color: black;
+    font-size: 18px;
+    display: flex;
+  }
+ 
+  .logo{
+    width: 174px;
+    height: 130px;
+    position: relative;
+    
+  }
+
+  .sitenaam{
+    margin-top: 65px;
+    margin-left: 1px;
+  }
+
+.menuitem {
+    margin-left: 30px;
+    margin-top: 0px;
+    justify-content: center;
+    font-family: sans-serif;
+    color: white;
+  }
+
+  .search{
+    background-color: white;
+    color: black;
+    margin-left: 400px;
+    border: #E9E9E9;
+    padding: 10px;
+    padding-right: 60px;
+    border-radius: 2px;
+    margin-top: 65px;
+    font-family: sans-serif;
+  }
+
+  .nieuwaccount{
+    background-color: #A8D0DB;
+    font-family: sans-serif;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 65px;
+    
+    }
+
+  .inloggen{
+    background-color: #CADF9E;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 65px;
+    font-family: sans-serif;
+  }
+
+                                  /*voor het linken van de verschillende pagina's */
+  a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+
+  }
+  a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+
+  }
+
+  .steleenvraag{
+    position: absolute;
+    width: 519px;
+    height: 246px;
+    left: 118px;
+    top: 327px; 
+    background-color: #E9E9E9CC;
+    padding-left: 50px;
+    border-radius: 40px;
+    display: flex;
+  }
+
+  .schrijfinvooreengroep{
+    position: absolute;
+    width: 519px;
+    height: 246px;
+    left: 118px;
+    top: 327px; 
+    background-color: #E9E9E9CC;
+    padding-left: 50px;
+    border-radius: 40px;
+    display: flex;
+  }
